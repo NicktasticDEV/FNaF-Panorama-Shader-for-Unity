@@ -13,3 +13,7 @@ I recommend you delete every camera in the scene before you add the panorama cam
 
 Select the Render Texture material in the project files manager, and then change the Y value of the Pixel Size
 ![enter image description here](https://cdn.discordapp.com/attachments/969418368656474185/1114620383707009044/image.png)
+
+## Misc
+
+You don't need to credit me, but I'd really appreciate it if you did!
